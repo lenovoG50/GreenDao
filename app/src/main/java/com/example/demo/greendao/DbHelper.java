@@ -1,12 +1,11 @@
 package com.example.demo.greendao;
 
 import android.content.Context;
-import android.database.sqlite.SQLiteDatabase;
 
 import org.greenrobot.greendao.database.Database;
-import org.greenrobot.greendao.database.DatabaseOpenHelper;
 
 /**
+ * 数据库升级可以用到
  * Created by 59246 on 2018/3/18.
  */
 
